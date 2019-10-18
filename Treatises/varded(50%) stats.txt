@@ -1,0 +1,10 @@
+Threshold: 50%
+F-Score weight: 1.0
+File	Total Words	Variants	Normalised	Non-variants	Total Tokens	Variant Tokens	Normalised Tokens	Non-variant Tokens
+\Gutenberg\A Treatise on Witchcraft Roberts.txt	4600	760	1359	2481	20952	915	3238	16799
+\Gutenberg\Daemonologie.txt	1461	459	420	582	4241	507	757	2977
+\Gutenberg\Discovery of Witches Hopkins.txt	1031	46	176	809	3709	73	271	3365
+\Treatises\Malleus Maleficarum.txt	7596	525	96	6975	156073	1131	191	154751
+\Treatises\The Infallible and True Assured Witch.txt	7159	1766	1999	3394	56634	2833	8854	44947
+\Treatises\The Mystery of Witchcraft.txt	6877	1388	2158	3331	61920	2662	10010	49248
+\Treatises\Witchcrafts Strange and Wonderfull.txt	1970	267	380	1323	7800	361	780	6659

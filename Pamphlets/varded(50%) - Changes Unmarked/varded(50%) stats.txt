@@ -1,0 +1,7 @@
+Threshold: 50%
+F-Score weight: 1.0
+File	Total Words	Variants	Normalised	Non-variants	Total Tokens	Variant Tokens	Normalised Tokens	Non-variant Tokens
+\A most vvicked worke of a wretched Witch.txt	908	91	239	578	2126	103	312	1711
+\THE MOST STRANGE AND ADMIRABLE DISCOUERIE OF THE THREE WITCHES OF WARBOYS.txt	3982	385	1399	2198	49843	928	6665	42250
+\THE SALISBURY ASSIZES..txt	313	13	53	247	783	14	81	688
+\THE SEVEN WOMEN CONFESSORS.txt	353	15	30	308	787	22	40	725

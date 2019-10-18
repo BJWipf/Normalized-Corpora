@@ -1,0 +1,11 @@
+Threshold: 50%
+F-Score weight: 1.0
+File	Total Words	Variants	Normalised	Non-variants	Total Tokens	Variant Tokens	Normalised Tokens	Non-variant Tokens
+\Canidia.txt	14285	3622	1707	8956	113606	5096	5120	103390
+\Macbeth.txt	3406	214	223	2969	18077	686	377	17014
+\PROBLEMS Madea.txt	5983	1663	1327	2993	25385	2636	2907	19842
+\PROBLEMS The Lancashire Witches and Tegue O Divelly.txt	5976	1767	824	3385	35101	3333	2027	29741
+\The Birth of Merlin.txt	3279	366	422	2491	19642	876	1158	17608
+\The late Lancashire Witches.txt	3875	579	1100	2196	23363	1170	2734	19459
+\Witch of Edmonton.txt	2798	221	384	2193	13733	504	734	12495
+\Witchcraft Discovered and Punished.txt	314	3	25	286	604	3	28	573
